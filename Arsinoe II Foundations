@@ -1,0 +1,392 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeRhithymna",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "279-270BCE",
+        "FoundationendDate": "Unknown",
+        "Location": "http://pleiades.stoa.org/places/590028/",
+        "NearestModernTown": "Rethymnon",
+        "Mint":"http://nomisma.org/id/rhithymna",
+        "Coins": "http://numismatics.org/collection/1944.100.40858",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "Null",
+        "Pelagios": "http://pleiades.stoa.org/places/590028",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4729,
+          35.3708
+        ]
+      }
+    },
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeKonope",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "277-268BCE",
+        "FoundationendDate": "Unknown",
+        "Location": "http://pleiades.stoa.org/places/530959",
+        "NearestModernTown": "Angelokastron",
+        "Mint":"Null",
+        "Coins": "Null",
+        "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8", "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/arsinoe-tituli-sepulcrales-s-iii-iia-17-269-272-a17_269_272?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=17+269", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42954%26bookid%3D9"],
+        "LiteraryEvidence": ["http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"],
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F530959",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.293117,
+          38.568831
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeMethana",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "270-265BCE",
+        "FoundationendDate": "Unknown",
+        "Location": "http://pleiades.stoa.org/places/570482",
+        "NearestModernTown": "Megalochorio",
+        "Mint":"http://nomisma.org/id/arsinoe_argolis",
+        "Coins": "http://numismatics.org/collection/1944.100.39707",
+        "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18","http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"],
+        "LiteraryEvidence": "Null",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.390203,
+         37.581207999999997 
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeMarion",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/707483",
+        "NearestModernTown": "Polis Chrysochous",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.436472,
+         35.037111
+        ]
+      }
+},
+{"type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeKoresia",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/570370",
+        "NearestModernTown": "Korissia",
+        "Mint":"http://nomisma.org/id/coressia",
+        "Coins": "http://numismatics.org/collection/1944.100.39707",
+        "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20",
+        "LiteraryEvidence": "Null",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570370",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         24.311717,
+         37.658358
+        ]
+      }
+},
+{"type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoePatara",
+        "Description": "Refoundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/639042",
+        "NearestModernTown": "Kelemis",
+        "Mint":"http://nomisma.org/id/patara",
+        "Coins": "Null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
+        "Papyri": "www.trismegistos.org/text/1916",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         29.314372,
+         36.260289
+        ]
+      }
+    },
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeEphesus",
+        "Description": "Refoundation",
+        "Founder": "Lysimachos",
+        "Foundationstartdate": "294BCE",
+        "FoundationendDate": "281",
+        "Location": "http://pleiades.stoa.org/places/599612",
+        "NearestModernTown": "Selçuk",
+        "Mint":"http://nomisma.org/id/ephesus",
+        "Coins": ["http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec", "http://www.coinarchives.com/a/lotviewer.php?LotID=615386&AucID=1113&Lot=217&Val=c3dcf8af90ecef69f5499aba9c139d7e", "http://numismatics.org/collection/1944.100.46049","http://numismatics.org/collection/1960.139.19"],
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": ["http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c", "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.21"],
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599612",
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481","http://www.worldcat.org/oclc/5346699"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.340978,
+          37.939503
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeTaucheira",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy III Euergetes",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/373736",
+        "NearestModernTown": "Tocra",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
+        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.565822,
+          32.537036
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeTaucheira",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy III Euergetes",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/373736",
+        "NearestModernTown": "Tocra",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.3.20",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.565822,
+          32.537036
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeKroodilopolis",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy II Philadelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/736948",
+        "NearestModernTown": "Medinet el-Fayyum",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": ["http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.39","http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc1:1.89", "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.11","http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38"],
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.843847,
+          29.307308
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "Arsinoe",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy II Philadelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/39295",
+        "NearestModernTown": "Null",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "Null",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F39295",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.081506,
+          12.775672
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeClysma",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy II Philadelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/727101",
+        "NearestModernTown": "Suez",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.552425,
+          29.980875
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeAmmochostos",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy II Philadelphos",
+        "Foundationstartdate": "null",
+        "FoundationendDate": "null",
+        "Location": "http://pleiades.stoa.org/places/707485",
+        "NearestModernTown": "Famagusta",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.943756,
+          35.11885
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoeNearNagidos",
+        "Description": "Refoundation",
+        "Founder": "Aetos, son of Apollonius",
+        "Foundationstartdate": "279-253BCE",
+        "FoundationendDate": "197BCE",
+        "Location": "http://pleiades.stoa.org/places/648571",
+        "NearestModernTown": "Maraş Harabeleri",
+        "Mint":"null",
+        "Coins": "null",
+        "EpigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9480,
+          36.1047
+        ]
+      }
+},
+{
+    "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "name": "ArsinoePatara",
+        "Description": "Refoundation",
+        "Founder": "Ptolemy II Philadelphus",
+        "Foundationstartdate": "279BCE",
+        "FoundationendDate": "197BCE",
+        "Location": "http://pleiades.stoa.org/places/648571",
+        "NearestModernTown": "Gelemiş",
+        "Mint":"http://nomisma.org/id/patara",
+        "Coins": "null",
+        "EpigraphicEvidence": "Null",
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
+        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.313364,
+          36.260565999999997
+        ]
+      }
+}
+]
+}
