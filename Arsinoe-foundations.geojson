@@ -66,7 +66,7 @@
         "Mint":"http://nomisma.org/id/arsinoe_argolis",
         "Coins": "http://numismatics.org/collection/1944.100.39707",
         "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18","http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"],
-        "LiteraryEvidence": "Null",
+        "LiteraryEvidence": null,
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
         "Bibliography": "http://www.worldcat.org/oclc/43477481"
       },
