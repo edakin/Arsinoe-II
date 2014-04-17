@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "red",
+        "marker-size": "medium,"
+        "marker-color": "#0000FF",
+        "marker-symbol": "esriSMSX",
         "name": "ArsinoeRhithymna",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
