@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium,"
+        "marker-size": "medium",
         "marker-color": "#0000FF",
         "marker-symbol": "esriSMSX",
         "name": "ArsinoeRhithymna",
