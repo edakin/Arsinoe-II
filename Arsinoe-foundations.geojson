@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
-        "marker-color": "#0000FF",
-        "marker-symbol": "esriSMSX",
         "name": "ArsinoeRhithymna",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -32,7 +29,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeKonope",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -57,7 +53,6 @@
     },
 {"type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeMethana",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -82,7 +77,6 @@
     },
 {"type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeMarion",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -107,7 +101,6 @@
 },
 {"type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeKoresia",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -132,7 +125,6 @@
 },
 {"type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoePatara",
         "Description": "Refoundation",
         "Founder": "PtolemyIIPhiladelphos",
@@ -159,7 +151,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeEphesus",
         "Description": "Refoundation",
         "Founder": "Lysimachos",
@@ -185,7 +176,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeTaucheira",
         "Description": "Refoundation",
         "Founder": "Ptolemy III Euergetes",
@@ -211,7 +201,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeTaucheira",
         "Description": "Refoundation",
         "Founder": "Ptolemy III Euergetes",
@@ -237,7 +226,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeKroodilopolis",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
@@ -263,7 +251,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "Arsinoe",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
@@ -289,7 +276,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeClysma",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
@@ -315,7 +301,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeAmmochostos",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
@@ -341,7 +326,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoeNearNagidos",
         "Description": "Refoundation",
         "Founder": "Aetos, son of Apollonius",
@@ -367,7 +351,6 @@
 {
     "type": "Feature",
       "properties": {
-        "marker-color": "red",
         "name": "ArsinoePatara",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphus",
