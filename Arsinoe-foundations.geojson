@@ -16,7 +16,7 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": null,
         "Pelagios": "http://pleiades.stoa.org/places/590028",
-        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481","http://www.worldcat.org/oclc/62697239","http://www.worldcat.org/oclc/243731249"]
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +31,7 @@
       "properties": {
         "name": "ArsinoeKonope",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Aetolians",
         "Foundationstartdate": "277-268BCE",
         "FoundationendDate": "Unknown",
         "Location": "http://pleiades.stoa.org/places/530959",
@@ -62,10 +62,11 @@
         "NearestModernTown": "Megalochorio",
         "Mint":"http://nomisma.org/id/arsinoe_argolis",
         "Coins": "http://numismatics.org/collection/1944.100.39707",
+        "Temple": "Isis",
         "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18","http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"],
-        "LiteraryEvidence": null,
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
-        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481, http://www.worldcat.org/oclc/37628298, http://www.worldcat.org/oclc/62697239"]
       },
       "geometry": {
         "type": "Point",
@@ -87,9 +88,9 @@
         "Mint":null,
         "Coins": null,
         "EpigraphicEvidence": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589",
-        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "LiteraryEvidence": ["http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3","http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
-        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481", "http://www.worldcat.org/oclc/62697239","http://www.worldcat.org/oclc/4632383843", "http://www.worldcat.org/oclc/90983239", "http://www.worldcat.org/oclc/3015851", "http://www.worldcat.org/oclc/614730366"]
       },
       "geometry": {
         "type": "Point",
@@ -99,6 +100,54 @@
         ]
       }
 },
+{"type": "Feature",
+      "properties": {
+        "name": "Arsinoe",
+        "Description": "New foundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": null,
+        "FoundationendDate": null,
+        "Location": "http://pleiades.stoa.org/places/707484",
+        "NearestModernTown": "Palaipaphos",
+        "Mint":null,
+        "Coins": null,
+        "EpigraphicEvidence": null,
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707484",
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481", "http://www.worldcat.org/oclc/62697239","http://www.worldcat.org/oclc/4632383843","http://www.worldcat.org/oclc/198651903","http://www.worldcat.org/oclc/83137916","http://www.worldcat.org/oclc/4632383843"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4378, 34.7402
+        ]
+      }
+},
+{"type": "Feature",
+      "properties": {
+        "name": "Arsinoe",
+        "Description": "New foundation",
+        "Founder": "PtolemyIIPhiladelphos",
+        "Foundationstartdate": null,
+        "FoundationendDate": null,
+        "Location": "http://pleiades.stoa.org/places/707599",
+        "NearestModernTown": "Pergamos",
+        "Mint":null,
+        "Coins": null,
+        "EpigraphicEvidence": null,
+        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707606",
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481", "http://www.worldcat.org/oclc/62697239","http://www.worldcat.org/oclc/4632383843"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.556471000000002,
+         34.847194000000002
+        ]
+      }
+},
+     
 {"type": "Feature",
       "properties": {
         "name": "ArsinoeKoresia",
@@ -138,7 +187,7 @@
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
         "Papyri": "www.trismegistos.org/text/1916",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
-        "Bibliography": "http://www.worldcat.org/oclc/43477481"
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481, http://www.worldcat.org/oclc/62697239, http://www.worldcat.org/oclc/4618195"]
       },
       "geometry": {
         "type": "Point",
@@ -189,31 +238,6 @@
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
         "Bibliography": "http://www.worldcat.org/oclc/43477481"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.565822,
-          32.537036
-        ]
-      }
-},
-{
-    "type": "Feature",
-      "properties": {
-        "name": "ArsinoeTaucheira",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy III Euergetes",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/373736",
-        "NearestModernTown": "Tocra",
-        "Mint":"null",
-        "Coins": "null",
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.3.20",
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
       },
       "geometry": {
         "type": "Point",
@@ -327,18 +351,19 @@
     "type": "Feature",
       "properties": {
         "name": "ArsinoeNearNagidos",
-        "Description": "Refoundation",
-        "Founder": "Aetos, son of Apollonius",
+        "Description": "Newfoundation",
+        "Founder": "Aetos,sonofApollonius",
         "Foundationstartdate": "279-253BCE",
         "FoundationendDate": "197BCE",
         "Location": "http://pleiades.stoa.org/places/648571",
         "NearestModernTown": "Maraş Harabeleri",
         "Mint": null,
         "Coins": null,
+        "Temple": "Arsinoe II",
         "EpigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
-        "Bibliography": "http://www.worldcat.org/oclc/5104862236"
+        "Bibliography": ["http://www.worldcat.org/oclc/5104862236", "http://www.worldcat.org/oclc/315927244", "http://www.worldcat.org/oclc/5546185188"]
       },
       "geometry": {
         "type": "Point",
