@@ -234,11 +234,10 @@
         "NearestModernTown": "Tocra",
         "Mint": null,
         "Coins": null,
-        "EpigraphicEvidence": null,
+        "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172",
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography": "http://www.worldcat.org/oclc/43477481"
-      },
+        "Bibliography": ["http://www.worldcat.org/oclc/43477481","http://www.worldcat.org/oclc/201736522", "http://www.worldcat.org/oclc/62697239","http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.3.20", "http://www.worldcat.org/oclc/205804817", "http://www.worldcat.org/oclc/18897446"], 
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -246,6 +245,7 @@
           32.537036
         ]
       }
+  }
 },
 {
     "type": "Feature",
