@@ -17,6 +17,10 @@
               "geometry":{"@id":"http://geovocab.org/geometry#geometry"}
               },
               
+              
+              
+              
+            
   "type": "FeatureCollection",
   "features": [
     {
@@ -25,7 +29,7 @@
       "properties": {
         "name": "Arsinoe Rhithymna",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": {
           "not_before": -279,
           "not_after": -270},
@@ -37,8 +41,31 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": null,
         "Pelagios": "http://pleiades.stoa.org/places/590028",
-        "Bibliography": ["Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481","Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239","Aussenbeziehungen kretischer Gemeinden zu den hellenistischen Staaten im 3. und 2. Jh. v. Chr.http://www.worldcat.org/oclc/243731249"]
-      },
+        
+    "Bibliography":[
+        {
+        "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1985",
+        "pages":"139-40",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+
+        {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"Aussenbeziehungen kretischer Gemeinden zu den hellenistischen Staaten im 3. und 2. Jh. v. Chr",
+        "author":"Kreuter, S",
+        "type":"Book",
+        "year":"1991",
+        "pages":"41",
+        "link":"http://www.worldcat.org/oclc/243731249"}
+        ]    
+},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -65,8 +92,30 @@
         "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8", "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/arsinoe-tituli-sepulcrales-s-iii-iia-17-269-272-a17_269_272?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=17+269", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42954%26bookid%3D9"],
         "LiteraryEvidence": ["Strabo.10.2.22.http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "Ath. 424c.http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F530959",
-        "Bibliography": ["Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481","Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239"]
-      },
+    "Bibliography":[
+        {
+        "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1985",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+
+        {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"The league of the Aitolians",
+        "author":"Grainger, John. D",
+        "type":"Book",
+        "year":"1999",
+        "pages":"93, 185, 540-543",
+        "link":"http://www.worldcat.org/oclc/41641400"}
+        ]    
+},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -78,10 +127,12 @@
     
 {"type": "Feature",
       "properties": {
-        "name": "ArsinoeMethana",
+        "name": "Arsinoe Methana",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
-        "Foundationstartdate": "270-265BCE",
+        "Founder": "Ptolemy II Philadelphos",
+        "Foundationstartdate": {
+          "not_before": -270,
+          "not_after": -265},
         "FoundationendDate": "Unknown",
         "Location": "http://pleiades.stoa.org/places/570482",
         "NearestModernTown": "Megalochorio",
@@ -91,7 +142,28 @@
         "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18","http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"],
         "LiteraryEvidence": "Paus. 2.34.1.http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
-        "Bibliography": ["Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481, Mee, C., Hamish Alexander Forbes, and M. P. Atherton. 1997. A rough and rocky place: the landscape and settlement history of the Methana Peninsula, Greece : results of the Methana Survey Project, sponsored by the British School at Athens and the University of Liverpool. Liverpool: Liverpool University Press.http://www.worldcat.org/oclc/37628298, Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239"]
+    "Bibliography":[
+        {
+        "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1985",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+        {"title":"A rough and rocky place : the landscape and settlement history of the Methana Peninsula, Greece : results of the Methana Survey Project, sponsored by the British School at Athens and the University of Liverpool",
+        "author":["Mee C","Hamish Alexander Forbes","Atherton M.P"],
+        "type":"Book",
+        "year":"1997",
+        "link":"http://www.worldcat.org/oclc/37628298"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"}
+        ]    
       },
       "geometry": {
         "type": "Point",
@@ -103,9 +175,9 @@
     },
 {"type": "Feature",
       "properties": {
-        "name": "ArsinoeMarion",
+        "name": "Arsinoe Marion",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
         "FoundationendDate": null,
         "Location": "http://pleiades.stoa.org/places/707483",
@@ -115,7 +187,54 @@
         "EpigraphicEvidence": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589",
         "LiteraryEvidence": ["Strabo.14.6.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3","Diod. 19.79.4.http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
-        "Bibliography": ["Barbantani, Silvia. 2005. Goddess of Love and Mistress of the Sea. Ancient Society. 35: 135-165.http://www.worldcat.org/oclc/4632383843","Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481", "Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239", "Mitford, T. B. 1939. Contributions to the epigraphy of Cyprus. Archiv F&Uumlr Papyrusforschung Und Verwandte Gebiete. 1939 (13): 13-38.http://www.worldcat.org/oclc/614730366","Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/90983239", "Nicolaou, Ino. 1976. Prosopography of Ptolemaic Cyprus. Göteborg: P. Åström.http://www.worldcat.org/oclc/3015851"]
+        "Bibliography": {
+    "Bibliography":[
+        
+        {"title":"Goddess of Love and Mistress of the Sea",
+        "author":"Barbantani, Silvia",
+        "type":"Article",
+        "journal":"Ancient Society 35",
+        "pages":"135-165",
+        "year":"2005",
+        "link":"http://www.worldcat.org/oclc/4632383843"},
+        
+        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1985",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+        {"title":"Goddess of Love and Mistress of the Sea",
+        "author":"Barbantani, Silvia",
+        "type":"Article",
+        "journal":"Ancient Society 35",
+        "pages":"135-165",
+        "year":"2005",
+        "link":"http://www.worldcat.org/oclc/4632383843"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+         {"title":"Contributions to the epigraphy of Cyprus",
+        "author":"Mitford, T. B",
+        "type":"Article",
+        "Journal":"Archiv für Papyrusforschung und verwandte Gebiete,13",
+        "year":"1939",
+        "pages":"13-38",
+        "link":"http://www.worldcat.org/oclc/614730366"},
+        
+        {"title":"Prosopography of Ptolemaic Cyprus",
+        "author":"Nicolaou, I",
+        "type":"Book",
+        "year":"1976",
+        "link":"http://www.worldcat.org/oclc/875664850"}
+        ]    
+}
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +248,7 @@
       "properties": {
         "name": "Arsinoe",
         "Description": "New foundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
         "FoundationendDate": null,
         "Location": "http://pleiades.stoa.org/places/707484",
@@ -152,7 +271,7 @@
       "properties": {
         "name": "Arsinoe",
         "Description": "New foundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
         "FoundationendDate": null,
         "Location": "http://pleiades.stoa.org/places/707599",
@@ -175,9 +294,9 @@
      
 {"type": "Feature",
       "properties": {
-        "name": "ArsinoeKoresia",
+        "name": "Arsinoe Koresia",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
         "FoundationendDate": null,
         "Location": "http://pleiades.stoa.org/places/570370",
@@ -199,9 +318,9 @@
 },
 {"type": "Feature",
       "properties": {
-        "name": "ArsinoePatara",
+        "name": "Arsinoe Patara",
         "Description": "Refoundation",
-        "Founder": "PtolemyIIPhiladelphos",
+        "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
         "FoundationendDate": null,
         "Location": "http://pleiades.stoa.org/places/639042",
@@ -225,11 +344,11 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeEphesus",
+        "name": "Arsinoe Ephesus",
         "Description": "Refoundation",
         "Founder": "Lysimachos",
         "Foundationstartdate": "294BCE",
-        "FoundationendDate": "281",
+        "FoundationendDate": "281BCE",
         "Location": "http://pleiades.stoa.org/places/599612",
         "NearestModernTown": "Selçuk",
         "Mint":"http://nomisma.org/id/ephesus",
@@ -250,7 +369,7 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeTaucheira",
+        "name": "Arsinoe Taucheira",
         "Description": "Refoundation",
         "Founder": "Ptolemy III Euergetes",
         "Foundationstartdate": null,
@@ -276,7 +395,7 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeKroodilopolis",
+        "name": "Arsinoe Kroodilopolis",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
@@ -326,7 +445,7 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeClysma",
+        "name": "Arsinoe Clysma",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
@@ -351,7 +470,7 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeAmmochostos",
+        "name": "Arsinoe Ammochostos",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
@@ -376,10 +495,12 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoeNearNagidos",
+        "name": "Arsinoe Near Nagidos",
         "Description": "Newfoundation",
-        "Founder": "Aetos,sonofApollonius",
-        "Foundationstartdate": "279-253BCE",
+        "Founder": "Aetos, son of Apollonius",
+        "Foundationstartdate": {
+          "not_before": -279,
+          "not_after": -253},
         "FoundationendDate": "197BCE",
         "Location": "http://pleiades.stoa.org/places/648571",
         "NearestModernTown": "Maraş Harabeleri",
@@ -402,7 +523,7 @@
 {
     "type": "Feature",
       "properties": {
-        "name": "ArsinoePatara",
+        "name": "Arsinoe Patara",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphus",
         "Foundationstartdate": "279BCE",
