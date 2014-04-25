@@ -1,4 +1,15 @@
 {
+  "@context":{"@base":"http://example.org/arsinoe-abroad/",
+              "id":"@id",
+              "features":"@graph",
+              "properties":{"@id":"http://example.org/isDefinedBy"},
+              "Foundationstartdate":{"@id":"http://purl.org/dc/terms/created"},
+              "name":{"@id":"http://purl.org/dc/terms/title"},
+    "claros": "http://purl.org/NET/Claros/vocab#",
+              "not_before": {"@id":"claros:not_before"},
+              "not_after": {"@id":"claros:not_after"}
+             },
+{
   "type": "FeatureCollection",
   "features": [
     {
