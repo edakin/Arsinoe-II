@@ -9,7 +9,7 @@
               "not_before": {"@id":"claros:not_before"},
               "not_after": {"@id":"claros:not_after"}
              },
-{
+
   "type": "FeatureCollection",
   "features": [
     {
