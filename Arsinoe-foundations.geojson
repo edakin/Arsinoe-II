@@ -143,8 +143,7 @@
         "LiteraryEvidence": "Paus. 2.34.1.http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
     "Bibliography":[
-        {
-        "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
         "type":"Book",
         "year":"1985",
@@ -187,10 +186,9 @@
         "EpigraphicEvidence": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589",
         "LiteraryEvidence": ["Strabo.14.6.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3","Diod. 19.79.4.http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
-        "Bibliography": {
     "Bibliography":[
-        
-        {"title":"Goddess of Love and Mistress of the Sea",
+        {
+        "title":"Goddess of Love and Mistress of the Sea",
         "author":"Barbantani, Silvia",
         "type":"Article",
         "journal":"Ancient Society 35",
@@ -234,7 +232,6 @@
         "year":"1976",
         "link":"http://www.worldcat.org/oclc/875664850"}
         ]    
-}
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +255,44 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707484",
-        "Bibliography": ["Barbantani, Silvia. 2005. Goddess of Love and Mistress of the Sea. Ancient Society.35: 135-165.http://www.worldcat.org/oclc/4632383843","Cohen, Getzel M. 1995,The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481", "Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239","http://www.worldcat.org/oclc/198651903","http://www.worldcat.org/oclc/83137916.http://www.worldcat.org/oclc/83137916"]
+        "Bibliography":[
+        
+        {"title":"Goddess of Love and Mistress of the Sea",
+        "author":"Barbantani, Silvia",
+        "type":"Article",
+        "journal":"Ancient Society 35",
+        "pages":"155-156",
+        "year":"2005",
+        "link":"http://www.worldcat.org/oclc/4632383843"},
+        
+        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201-2",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+         {"title":"Metro' Nea Paphos: Suburban Sprawl in Southwestern Cyprus in the Hellenistic and Earlier Roman Periods",
+        "author":"Rupp, D. W. ",
+        "type":"Article",
+        "Journal":"OURNAL FOR THE STUDY OF THE OLD TESTAMENT SUPPLEMENT SERIES. 244",
+        "year":"1997",
+        "pages":"236-262",
+        "link":"http://www.worldcat.org/oclc/198651903"},
+        
+        {"title":"The Land of the Paphian Aphrodite. Volume 2, The Canadian Palaipaphos survey project : artifact and ecofactual studies",
+        "author":"Sørensen. L.W.",
+        "type":"Book",
+        "year":"1993",
+        "link":"http://www.worldcat.org/oclc/83137916"}
+        ]    
       },
       "geometry": {
         "type": "Point",
@@ -281,7 +315,30 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": "Strabo.14.6.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707606",
-        "Bibliography": ["Barbantani, Silvia. 2005. Goddess of Love and Mistress of the Sea. Ancient Society.35: 135-165.http://www.worldcat.org/oclc/4632383843","Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481", "Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239"]
+        "Bibliography":[
+        
+        {"title":"Goddess of Love and Mistress of the Sea",
+        "author":"Barbantani, Silvia",
+        "type":"Article",
+        "journal":"Ancient Society 35",
+        "pages":"155-156",
+        "year":"2005",
+        "link":"http://www.worldcat.org/oclc/4632383843"},
+        
+        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201-2",
+        "link":"http://www.worldcat.org/oclc/62697239"}
+        ]    
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +351,7 @@
      
 {"type": "Feature",
       "properties": {
-        "name": "Arsinoe Koresia",
+        "name": "Arsinoe Koressos",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
@@ -306,7 +363,35 @@
         "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20",
         "LiteraryEvidence": null,
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570370",
-        "Bibliography": ["Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press","http://www.worldcat.org/oclc/43477481","Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239"]
+        "Bibliography":[
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"200",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"Landscape archaeology as long-term history : northern Keos in the Cycladic Islands from earliest settlement until modern times",
+        "author":"Cherry, John F., Davis. J.L., and Mantzouranē H.",
+        "type":"Book",
+        "year":"1991",
+        "link":"http://www.worldcat.org/oclc/23973547"},
+        
+         {"title":"The Ptolemaic Base at Koressos on Keos",
+        "author":"Cherry, John F., Davis. J.L.",
+        "type":"Article",
+        "journal":"The Annual of the British School at Athens, v86",
+        "year":"1991",
+        "pages":"9-28",
+        "link":"http://www.worldcat.org/oclc/5162908184"}
+        ]    
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +416,38 @@
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
         "Papyri": "www.trismegistos.org/text/1916",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
-        "Bibliography": ["http://www.worldcat.org/oclc/43477481, http://www.worldcat.org/oclc/62697239, http://www.worldcat.org/oclc/4618195"]
+        "Bibliography":[
+            
+            {"title":"Lycian Turkey: an archaeological guide",
+        "author":"Bean,G. W.",
+        "type":"Book",
+        "year":"1978",
+        "pages":"82-91",
+        "link":"http://www.worldcat.org/oclc/4618195"},
+        
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"Die lykischen Häfen und die Handelswege im östlichen Mittelmeer",
+        "author":"Zimmermann. M.",
+        "type":"Article",
+        "journal":"Zeitschrift für Papyrologie und Epigraphik v92",
+        "year":"1992",
+        "pages":"201-217",
+        "link":"http://www.worldcat.org/oclc/5543862400"}
+        ]
+        
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +472,28 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": ["Strabo.10.2.22.http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "Strabo.14.1.21.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.21","Ath. 424c.http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599612",
-        "Bibliography": ["Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands,and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481","Head, Barclay V. 1979. On the chronological sequence of the coins of Ephesus. Chicago: Obol International.http://www.worldcat.org/oclc/5346699"]
+        "Bibliography":[
+        
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"On the chronological sequence of the coins of Ephesus",
+        "author":"Head, Barclay V.",
+        "type":"Book",
+        "year":"1979",
+        "link":"http://www.worldcat.org/oclc/5346699"}
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +518,46 @@
         "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172",
         "LiteraryEvidence": "Strabo.22.16.4.http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography": ["Buzaian, A. 2000. Excavations at Tocra (1985-1992).LIBYAN STUDIES. 31: 59-102.http://www.worldcat.org/oclc/201736522","Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481","Laronde, André, and François Chamoux. 1987. Cyrène et la Libye hellénistique = Libykai historikai : de l'époque républicaine au principat d'Auguste. Paris: Editions du Centre de la Recherche Scientifique.http://www.worldcat.org/oclc/18897446","Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239","Smith, D., and J. Crow. 1998.The Hellenistic and Byzantine Defences of Tocra (Taucheira). LIBYAN STUDIES. 29: 35-82.http://www.worldcat.org/oclc/205804817"]
+        "Bibliography":[
+            
+        {"title":"Excavations at Tocra (1985-1992)",
+        "author":"Buzaian. A.",
+        "type":"Article",
+        "year":"1978",
+        "journal":"LIBYAN STUDIES, 31",
+        "pages":"59-102",
+        "link":"http://www.worldcat.org/oclc/201736522"},
+        
+        {"title":"Cyrène et la Libye hellénistique = Libykai historikai : de l'époque républicaine au principat d'Auguste",
+        "author":"Laronde, André, and François Chamoux.",
+        "type":"Book",
+        "year":"1987",
+        "pages":"398-405, 472-78",
+        "link":"http://www.worldcat.org/oclc/18897446"},
+        
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"202",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        
+        {"title":"The Hellenistic and Byzantine Defences of Tocra (Taucheira)",
+        "author":"Smith. D.; Crow. J",
+        "type":"Article",
+        "journal":"LIBYAN STUDIES, 29,2",
+        "year":"1998",
+        "pages":"35-82",
+        "link":"http://www.worldcat.org/oclc/205804817"}
+        ]
 },
      
       "geometry": {
@@ -407,7 +583,13 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": ["Strabo. 17.1.38.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38","Strabo.17.1.39.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.39","Diod. 1.89.http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc1:1.89","Plin. Nat. 5.11.http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.11"],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography": "Getzel Cohen. 2006. The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa. University of California Press.http://www.worldcat.org/oclc/5104862236"
+        "Bibliography": 
+        {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"2006",
+        "pages":"x",
+        "link":"http://www.worldcat.org/oclc/5104862236"}
       },
       "geometry": {
         "type": "Point",
@@ -432,7 +614,13 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": null,
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F39295",
-        "Bibliography": "Getzel Cohen. 2006. The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa. University of California Press.http://www.worldcat.org/oclc/5104862236"
+        "Bibliography": 
+        {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"2006",
+        "pages":"x",
+        "link":"http://www.worldcat.org/oclc/5104862236"}
       },
       "geometry": {
         "type": "Point",
@@ -457,7 +645,13 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": "Plin. Nat. 5.9.http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
-        "Bibliography": "Getzel Cohen. 2006. The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa. University of California Press.http://www.worldcat.org/oclc/5104862236"
+        "Bibliography": 
+        {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"2006",
+        "pages":"x",
+        "link":"http://www.worldcat.org/oclc/5104862236"}
       },
       "geometry": {
         "type": "Point",
@@ -482,7 +676,13 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
-        "Bibliography": "Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481"
+        "Bibliography": 
+        {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"2006",
+        "pages":"x",
+        "link":"http://www.worldcat.org/oclc/5104862236"}
       },
       "geometry": {
         "type": "Point",
@@ -510,7 +710,36 @@
         "EpigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
         "LiteraryEvidence": "Strabo.14.5.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
-        "Bibliography": ["Chaniotis, Angelos. 1993. Ein diplomatischer Statthalter nimmt Rücksicht auf den verletzten Stolz zweier hellenistischer Kleinpoleis (Nagidos und Arsinoe). Heidelberg: Universitätsbibliothek der Universität Heidelberg.http://www.worldcat.org/oclc/315927244","Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/5104862236", "Jones, C. P., Ch. Habicht, and Christian Habicht. 1989.A Hellenistic Inscription from Arsinoe in Cilicia. Phoenix. 43 (4): 317-346.http://www.worldcat.org/oclc/5546185188","Mueller Mueller, Katja. 2006. Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world. Leuven: Peeters.http://www.worldcat.org/oclc/62697239"]
+        "Bibliography":[
+            
+            {"title":"Ein diplomatischer Statthalter nimmt Rücksicht auf den verletzten Stolz zweier hellenistischer Kleinpoleis (Nagidos und Arsinoe)",
+        "author":"Chaniotis, A. ",
+        "type":"Book",
+        "year":"1993",
+        "link":"http://www.worldcat.org/oclc/205804817"},
+            
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+        {"title":"A Hellenistic Inscription from Arsinoe in Cilicia",
+        "author":"Jones, C. P., Ch. Habicht",
+        "type":"Article",
+        "journal":"Phoenix. 43",
+        "year":"1989",
+        "pages":"317-346",
+        "link":"http://www.worldcat.org/oclc/5546185188"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"202",
+        "link":"http://www.worldcat.org/oclc/62697239"}
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +764,14 @@
         "EpigraphicEvidence": null,
         "LiteraryEvidence": "Strabo.14.3.6.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
-        "Bibliography": "Cohen, Getzel M. 1995. The Hellenistic settlements in Europe, the islands, and Asia Minor. Berkeley: University of California Press.http://www.worldcat.org/oclc/43477481"
+        "Bibliography":[
+        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "author":"Cohen, Getzel. M",
+        "type":"Book",
+        "year":"1995",
+        "pages":"109-10, 119",
+        "link":"http://www.worldcat.org/oclc/43477481"}
+        ]
       },
       "geometry": {
         "type": "Point",
