@@ -756,7 +756,9 @@
         "Mint":"null",
         "Coins": null,
         "EpigraphicEvidence": null,
-        "LiteraryEvidence": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3",
+        "LiteraryEvidence": 
+            [{"title": "Strabo.14.6.3.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
         "Bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
