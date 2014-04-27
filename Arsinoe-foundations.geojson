@@ -23,9 +23,9 @@
             
   "type": "FeatureCollection",
   "features": [
-    {
+     {
       "type": "Feature",
-      "id":"ArsinoeRhithymna",
+      "id":"Arsinoe Rhithymna",
       "properties": {
         "name": "Arsinoe Rhithymna",
         "Description": "Refoundation",
@@ -36,8 +36,14 @@
         "FoundationendDate": "Unknown",
         "Location": "http://pleiades.stoa.org/places/590028/",
         "NearestModernTown": "Rethymnon",
-        "Mint":"http://nomisma.org/id/rhithymna",
-        "Coins": "http://numismatics.org/collection/1944.100.40858",
+        "Mint":["http://nomisma.org/id/arsinoe_crete",
+        "http://nomisma.org/id/rhithymna"],
+        "Coins": [
+            {"material":"bronze",
+            "monarch":null,
+            "deity":"Athena",
+            "link":"http://numismatics.org/collection/1944.100.40858"}
+            ],
         "EpigraphicEvidence": null,
         "LiteraryEvidence": null,
         "Pelagios": "http://pleiades.stoa.org/places/590028",
