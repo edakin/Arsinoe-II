@@ -848,7 +848,9 @@
         "Mint":"http://nomisma.org/id/patara",
         "Coins": null,
         "EpigraphicEvidence": null,
-        "LiteraryEvidence": "Strabo.14.3.6.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6",
+        "LiteraryEvidence": 
+            [{"title": "Strabo.14.3.6.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
         "Bibliography":[
         {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
