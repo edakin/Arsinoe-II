@@ -523,9 +523,24 @@
         "Location": "http://pleiades.stoa.org/places/599612",
         "NearestModernTown": "Selçuk",
         "Mint":"http://nomisma.org/id/ephesus",
-        "Coins": ["http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec", "http://www.coinarchives.com/a/lotviewer.php?LotID=615386&AucID=1113&Lot=217&Val=c3dcf8af90ecef69f5499aba9c139d7e", "http://numismatics.org/collection/1944.100.46049","http://numismatics.org/collection/1960.139.19"],
+        "Coins": [
+            {"material":"silver",
+            "monarch": "arsinoe",
+            "deity": null,
+            "link":"http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec"},
+            
+            {"material":"silver",
+            "monarch": "arsinoe",
+            "deity": null,
+            "link":"http://numismatics.org/collection/1944.100.46049"}],
         "EpigraphicEvidence": null,
-        "LiteraryEvidence": ["Strabo.10.2.22.http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "Strabo.14.1.21.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.21","Ath. 424c.http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"],
+        "LiteraryEvidence": 
+            [{"title": "Strabo.10.2.22.",
+              "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22"},
+              {"title": "Strabo.14.1.21.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.21"},
+              {"title": "Athenaeus. 424c.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599612",
         "Bibliography":[
         
