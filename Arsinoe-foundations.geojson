@@ -95,8 +95,25 @@
         "NearestModernTown": "Angelokastron",
         "Mint":null,
         "Coins": null,
-        "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8", "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/arsinoe-tituli-sepulcrales-s-iii-iia-17-269-272-a17_269_272?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=17+269", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42954%26bookid%3D9"],
-        "LiteraryEvidence": ["Strabo.10.2.22.http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22", "Ath. 424c.http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"],
+        
+    "EpigraphicEvidence": 
+    [{"title": "IG IX,1² 1:31",
+    "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8"}, 
+    
+    {"title":"SEG 17 269-272",
+    "link": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/arsinoe-tituli-sepulcrales-s-iii-iia-17-269-272-a17_269_272?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=17+269"}, 
+    
+    {"title":"IG IX,1² 1:131",
+    "link":"http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42954%26bookid%3D9"}
+    ],
+    
+    "literaryevidence":
+    [{"title": "Strabo.10.2.22.",
+    "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22"},
+    {"title": "Athenaeus. 424c.",
+    "link":"http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"}
+    ]
+},
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F530959",
     "Bibliography":[
         {
@@ -120,8 +137,7 @@
         "year":"1999",
         "pages":"93, 185, 540-543",
         "link":"http://www.worldcat.org/oclc/41641400"}
-        ]    
-},
+        ],
       "geometry": {
         "type": "Point",
         "coordinates": [
