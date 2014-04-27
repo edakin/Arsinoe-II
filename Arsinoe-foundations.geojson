@@ -792,7 +792,9 @@
         "Coins": null,
         "Temple": "Arsinoe II",
         "EpigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
-        "LiteraryEvidence": "Strabo.14.5.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3",
+         "LiteraryEvidence": 
+            [{"title": "Strabo.14.5.3.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
         "Bibliography":[
             
