@@ -159,11 +159,26 @@
         "Location": "http://pleiades.stoa.org/places/570482",
         "NearestModernTown": "Megalochorio",
         "Mint":"http://nomisma.org/id/arsinoe_argolis",
-        "Coins": "http://numismatics.org/collection/1944.100.39707",
-        "Temple": "Isis",
-        "EpigraphicEvidence": ["http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18","http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2", "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"],
-        "LiteraryEvidence": "Paus. 2.34.1.http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1",
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
+         "Coins": [
+            {"material":"bronze",
+            "monarch": "arsinoe",
+            "deity": null,
+            "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
+        "Temple": "Isis",  
+        "EpigraphicEvidence": 
+    [{"title": "IG XII,3 466/1390",
+    "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18"}, 
+    
+    {"title":"IG IV²,1 71",
+    "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28500%26region%3D2"}, 
+    
+    {"title":"IG IV²,1 76",
+    "link":"http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"}
+    ],
+        "LiteraryEvidence": 
+            [{"title": "Pausanias.2.34.1.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1"}],
+        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
     "Bibliography":[
         {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
