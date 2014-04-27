@@ -220,8 +220,17 @@
         "NearestModernTown": "Polis Chrysochous",
         "Mint":null,
         "Coins": null,
-        "EpigraphicEvidence": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589",
-        "LiteraryEvidence": ["Strabo.14.6.3.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3","Diod. 19.79.4.http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"],
+        "EpigraphicEvidence": 
+    [{"title": "SEG 13 589",
+    "link": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589"}],     
+
+"LiteraryEvidence": 
+            [{"title": "Strabo.14.6.3.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
+              
+              {"title": "Diodorus. 19.79.4.",
+              "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"}],
+              
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
     "Bibliography":[
         {
