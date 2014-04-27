@@ -585,8 +585,12 @@
         "NearestModernTown": "Tocra",
         "Mint": null,
         "Coins": null,
-        "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172",
-        "LiteraryEvidence": "Strabo.22.16.4.http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4",
+        "EpigraphicEvidence": 
+             [{"title": "SEG 18:772",
+               "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172"}],  
+        "LiteraryEvidence": 
+              [{"title": "Strabo.22.16.4.",
+              "link": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
         "Bibliography":[
             
