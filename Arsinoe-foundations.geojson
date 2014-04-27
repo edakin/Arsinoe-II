@@ -655,7 +655,13 @@
         "Mint":null,
         "Coins": null,
         "EpigraphicEvidence": null,
-        "LiteraryEvidence": ["Strabo. 17.1.38.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38","Strabo.17.1.39.http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.39","Diod. 1.89.http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc1:1.89","Plin. Nat. 5.11.http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.11"],
+         "LiteraryEvidence": 
+            [{"title": "Strabo. 17.1.38.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38"},
+              {"title": "Diodorus. 1.89.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc1:1.89"},
+              {"title": "Pliny Natural History. 5.11.",
+              "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.11"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
         "Bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
