@@ -410,8 +410,10 @@
         "Location": "http://pleiades.stoa.org/places/570370",
         "NearestModernTown": "Korissia",
         "Mint":"http://nomisma.org/id/coressia",
-        "Coins": "http://numismatics.org/collection/1944.100.39707",
-        "EpigraphicEvidence": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20",
+        "Coins": null,
+        "EpigraphicEvidence": 
+    [{"title": "IG XII,5 1061",
+    "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20"}],     
         "LiteraryEvidence": null,
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570370",
         "Bibliography":[
