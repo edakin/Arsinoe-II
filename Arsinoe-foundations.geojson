@@ -723,7 +723,9 @@
         "Mint": null,
         "Coins": null,
         "EpigraphicEvidence": null,
-        "LiteraryEvidence": "Plin. Nat. 5.9.http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9",
+         "LiteraryEvidence": 
+            [{"title": "Pliny Natural History 5.9.",
+              "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
         "Bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
