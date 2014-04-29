@@ -1,20 +1,21 @@
-{
-  "@context":{"@base":"http://example.org/arsinoe-abroad/",
+{"@context":{"@base":"http://example.org/arsinoe-abroad/",
               "id":"@id",
               "features":"@graph",
               "properties":{"@id":"http://example.org/isDefinedBy"},
               "name":{"@id":"http://purl.org/dc/terms/title"},
-              "Foundationstartdate":{"@id":"http://purl.org/dc/terms/created"},
+              "Description":{"@id":"http://purl.org/dc/terms/description"},
+              "Founder":{"@id":"http://purl.org/dc/terms/creator"},
+              "Foundationstartdate":{"@id":"http://purl.org/dc/terms            /created"},
                   "claros": "http://purl.org/NET/Claros/vocab#",
               "not_before": {"@id":"claros:not_before"},
               "not_after": {"@id":"claros:not_after"},
-             
-              "Description":{"@id":"http://purl.org/dc/terms/description"},
-              "Founder":{"@id":"http://purl.org/dc/terms/creator"},
+             "Foundationenddate":{"@id":"http://purl.org/dc/terms/modified"},
               "Location":{"@id":"http://purl.org/dc/terms/Location"},
               "Pelagios":{"@id":"http://purl.org/dc/terms/isReferencedBy"},
               "Bibliography":{"@id":"http://purl.org/dc/terms/bibliographicCitation"},
-              "geometry":{"@id":"http://geovocab.org/geometry#geometry"}
+              "geometry":{"@id":"http://geovocab.org/geometry#geometry"},
+              "Point":{"@id":"http://geovocab.org/geometry#Point"},
+              "coordinates":{ "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#value", "@container":"@list" }
               },
               
               
