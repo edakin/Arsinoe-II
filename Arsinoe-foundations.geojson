@@ -10,12 +10,13 @@
               "not_before": {"@id":"claros:not_before"},
               "not_after": {"@id":"claros:not_after"},
              "Foundationenddate":{"@id":"http://purl.org/dc/terms/modified"},
-              "Location":{"@id":"http://purl.org/dc/terms/Location"},
+             "Location":{"@id":"http://purl.org/dc/terms/Location","@type":"@id"},
               "Pelagios":{"@id":"http://purl.org/dc/terms/isReferencedBy"},
               "Bibliography":{"@id":"http://purl.org/dc/terms/bibliographicCitation"},
               "geometry":{"@id":"http://geovocab.org/geometry#geometry"},
               "Point":{"@id":"http://geovocab.org/geometry#Point"},
-              "coordinates":{ "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#value", "@container":"@list" }
+              "coordinates":{ "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#value", "@container":"@list" },
+             "Mint":{"@id":"http://example.org/arsinoe-abroad/Mint"}
               },
               
               
@@ -26,7 +27,7 @@
   "features": [
      {
       "type": "Feature",
-      "id":"Arsinoe Rhithymna",
+      "id":"ArsinoeRhithymna",
       "properties": {
         "name": "Arsinoe Rhithymna",
         "Description": "Refoundation",
@@ -433,7 +434,7 @@
         "link":"http://www.worldcat.org/oclc/62697239"},
         
         {"title":"Landscape archaeology as long-term history : northern Keos in the Cycladic Islands from earliest settlement until modern times",
-        "author":"Cherry, John F., Davis. J.L., and Mantzouranē H.",
+        "author":"Cherry, John F., Davis. J.L., and Mantzouranē H.",
         "type":"Book",
         "year":"1991",
         "link":"http://www.worldcat.org/oclc/23973547"},
@@ -495,10 +496,10 @@
         "pages":"201",
         "link":"http://www.worldcat.org/oclc/62697239"},
         
-        {"title":"Die lykischen Häfen und die Handelswege im östlichen Mittelmeer",
+        {"title":"Die lykischen Häfen und die Handelswege im östlichen Mittelmeer",
         "author":"Zimmermann. M.",
         "type":"Article",
-        "journal":"Zeitschrift für Papyrologie und Epigraphik v92",
+        "journal":"Zeitschrift für Papyrologie und Epigraphik v92",
         "year":"1992",
         "pages":"201-217",
         "link":"http://www.worldcat.org/oclc/5543862400"}
@@ -603,8 +604,8 @@
         "pages":"59-102",
         "link":"http://www.worldcat.org/oclc/201736522"},
         
-        {"title":"Cyrène et la Libye hellénistique = Libykai historikai : de l'époque républicaine au principat d'Auguste",
-        "author":"Laronde, André, and François Chamoux.",
+        {"title":"Cyrène et la Libye hellénistique = Libykai historikai : de l'époque républicaine au principat d'Auguste",
+        "author":"Laronde, André, and François Chamoux.",
         "type":"Book",
         "year":"1987",
         "pages":"398-405, 472-78",
@@ -799,7 +800,7 @@
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
         "Bibliography":[
             
-            {"title":"Ein diplomatischer Statthalter nimmt Rücksicht auf den verletzten Stolz zweier hellenistischer Kleinpoleis (Nagidos und Arsinoe)",
+            {"title":"Ein diplomatischer Statthalter nimmt Rücksicht auf den verletzten Stolz zweier hellenistischer Kleinpoleis (Nagidos und Arsinoe)",
         "author":"Chaniotis, A. ",
         "type":"Book",
         "year":"1993",
