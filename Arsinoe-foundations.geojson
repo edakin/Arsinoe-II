@@ -150,6 +150,7 @@
     },
     
 {"type": "Feature",
+"id":"ArsinoeMethana",
       "properties": {
         "name": "Arsinoe Methana",
         "Description": "Refoundation",
@@ -212,6 +213,7 @@
       }
     },
 {"type": "Feature",
+"id":"ArsinoeMethana",
       "properties": {
         "name": "Arsinoe Marion",
         "Description": "Refoundation",
@@ -290,6 +292,7 @@
       }
 },
 {"type": "Feature",
+"id":"Arsinoe",
       "properties": {
         "name": "Arsinoe",
         "Description": "New foundation",
@@ -353,6 +356,7 @@
       }
 },
 {"type": "Feature",
+"id":"ArsinoeAngeloktistos",
       "properties": {
         "name": "Arsinoe",
         "Description": "New foundation",
@@ -403,6 +407,7 @@
 },
      
 {"type": "Feature",
+"id":"ArsinoeKoressos",
       "properties": {
         "name": "Arsinoe Koressos",
         "Description": "Refoundation",
@@ -457,6 +462,7 @@
       }
 },
 {"type": "Feature",
+"id":"ArsinoePatara",
       "properties": {
         "name": "Arsinoe Patara",
         "Description": "Refoundation",
@@ -516,6 +522,7 @@
     },
 {
     "type": "Feature",
+    "id":"ArsinoeEphesus",
       "properties": {
         "name": "Arsinoe Ephesus",
         "Description": "Refoundation",
@@ -577,6 +584,7 @@
 },
 {
     "type": "Feature",
+    "id":"ArsinoeTaucheira",
       "properties": {
         "name": "Arsinoe Taucheira",
         "Description": "Refoundation",
@@ -646,6 +654,7 @@
 },
 {
     "type": "Feature",
+    "id":"ArsinoeKroodilopolis",
       "properties": {
         "name": "Arsinoe Kroodilopolis",
         "Description": "Refoundation",
@@ -714,6 +723,7 @@
 },
 {
     "type": "Feature",
+    "id":"ArsinoeClysma",
       "properties": {
         "name": "Arsinoe Clysma",
         "Description": "Refoundation",
@@ -747,6 +757,7 @@
 },
 {
     "type": "Feature",
+    "id":"Arsinoe Ammochostos",
       "properties": {
         "name": "Arsinoe Ammochostos",
         "Description": "Refoundation",
@@ -780,6 +791,7 @@
 },
 {
     "type": "Feature",
+    "id":"ArsinoeNearNagidos",
       "properties": {
         "name": "Arsinoe Near Nagidos",
         "Description": "Newfoundation",
@@ -839,6 +851,7 @@
 },
 {
     "type": "Feature",
+    "id":"ArsinoePatara",
       "properties": {
         "name": "Arsinoe Patara",
         "Description": "Refoundation",
