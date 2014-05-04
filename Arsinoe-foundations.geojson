@@ -3,20 +3,28 @@
               "features":"@graph",
               "properties":{"@id":"http://example.org/isDefinedBy"},
               "name":{"@id":"http://purl.org/dc/terms/title"},
-              "Description":{"@id":"http://purl.org/dc/terms/description"},
-              "Founder":{"@id":"http://purl.org/dc/terms/creator"},
-              "Foundationstartdate":{"@id":"http://purl.org/dc/terms            /created"},
+              "description":{"@id":"http://purl.org/dc/terms/description"},
+              "founder":{"@id":"http://purl.org/dc/terms/creator"},
+              "foundationstartdate":{"@id":"http://purl.org/dc/terms            /created"},
                   "claros": "http://purl.org/NET/Claros/vocab#",
               "not_before": {"@id":"claros:not_before"},
               "not_after": {"@id":"claros:not_after"},
-             "Foundationenddate":{"@id":"http://purl.org/dc/terms/modified"},
-             "Location":{"@id":"http://purl.org/dc/terms/Location","@type":"@id"},
-              "Pelagios":{"@id":"http://purl.org/dc/terms/isReferencedBy"},
-              "Bibliography":{"@id":"http://purl.org/dc/terms/bibliographicCitation"},
+              "foundationenddate":{"@id":"http://purl.org/dc/terms/modified"},
+              "location":{"@id":"http://purl.org/dc/terms/Location","@type":"@id"},
+              "pelagios":{"@id":"http://purl.org/dc/terms/isReferencedBy"},
+              "bibliography":{"@id":"http://purl.org/dc/terms/bibliographicCitation"},
               "geometry":{"@id":"http://geovocab.org/geometry#geometry"},
               "Point":{"@id":"http://geovocab.org/geometry#Point"},
               "coordinates":{ "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#value", "@container":"@list" },
-             "Mint":{"@id":"http://example.org/arsinoe-abroad/Mint"}
+             "mint":{"@id":"http://nomisma.org/id/mint"},
+             "coins":{"@id":"http://nomisma.org/id/coin"},
+             "material":{"@id":"http://nomisma.org/id/material"},
+             "deity":{"@id":"http://example.org/arsinoe-abroad/deity"},
+             "monarch":{"@id":"http://example.org/arsinoe-abroad/monarch"},
+             "link":{"@id":"prov:wasDerivedFrom","@type":"@id" },
+             "epigraphicEvidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence"},
+             "literaryEvidence": {"@id":"http://example.org/arsinoe-abroad/literaryevidence"},
+             "papyri":{"@id":"http://example.org/papyri"} 
               },
               
               
@@ -30,27 +38,27 @@
       "id":"ArsinoeRhithymna",
       "properties": {
         "name": "Arsinoe Rhithymna",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": {
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": {
           "not_before": -279,
           "not_after": -270},
-        "FoundationendDate": "Unknown",
-        "Location": "http://pleiades.stoa.org/places/590028/",
-        "NearestModernTown": "Rethymnon",
-        "Mint":["http://nomisma.org/id/arsinoe_crete",
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/590028/",
+        "nearestModernTown": "Rethymnon",
+        "mint":["http://nomisma.org/id/arsinoe_crete",
         "http://nomisma.org/id/rhithymna"],
-        "Coins": [
+        "coins": [
             {"material":"bronze",
             "monarch":null,
             "deity":"Athena",
             "link":"http://numismatics.org/collection/1944.100.40858"}
             ],
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": null,
-        "Pelagios": "http://pleiades.stoa.org/places/590028",
+        "epigraphicEvidence": null,
+        "literaryEvidence": null,
+        "pelagios": "http://pleiades.stoa.org/places/590028",
         
-    "Bibliography":[
+    "bibliography":[
         {
         "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
@@ -87,18 +95,16 @@
   "id": "ArsinoeKonope",
       "properties": {
         "name": "Arsinoe Konope",
-        "Description": "Refoundation",
-        "Founder": "Aetolians",
-        "Foundationstartdate": {
+        "description": "Refoundation",
+        "founder": "Aetolians",
+        "foundationstartdate": {
           "not_before": -280,
           "not_after": -277},
-        "FoundationendDate": "Unknown",
-        "Location": "http://pleiades.stoa.org/places/530959",
-        "NearestModernTown": "Angelokastron",
-        "Mint":null,
-        "Coins": null,
+        "foundationendDate": "Unknown",
+        "location": "http://pleiades.stoa.org/places/530959",
+        "nearestModernTown": "Angelokastron",
         
-    "EpigraphicEvidence": 
+    "epigraphicEvidence": 
     [{"title": "IG IX,1² 1:31",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8"}, 
     
@@ -117,7 +123,7 @@
     ]
 },
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F530959",
-    "Bibliography":[
+    "bibliography":[
         {
         "title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
@@ -155,20 +161,19 @@
         "name": "Arsinoe Methana",
         "Description": "Refoundation",
         "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": {
+        "foundationstartdate": {
           "not_before": -270,
           "not_after": -265},
-        "FoundationendDate": "Unknown",
-        "Location": "http://pleiades.stoa.org/places/570482",
-        "NearestModernTown": "Megalochorio",
-        "Mint":"http://nomisma.org/id/arsinoe_argolis",
-         "Coins": [
+        "foundationendDate": "null",
+        "location": "http://pleiades.stoa.org/places/570482",
+        "nearestModernTown": "Megalochorio",
+        "mint":"http://nomisma.org/id/arsinoe_argolis",
+         "coins": [
             {"material":"bronze",
             "monarch": "arsinoe",
-            "deity": null,
             "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
-        "Temple": "Isis",  
-        "EpigraphicEvidence": 
+        "temple": "Isis",  
+        "epigraphicEvidence": 
     [{"title": "IG XII,3 466/1390",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18"}, 
     
@@ -178,11 +183,11 @@
     {"title":"IG IV²,1 76",
     "link":"http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"}
     ],
-        "LiteraryEvidence": 
+        "literaryEvidence": 
             [{"title": "Pausanias.2.34.1.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
-    "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
+    "bibliography":[
         {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -216,27 +221,25 @@
 "id":"ArsinoeMethana",
       "properties": {
         "name": "Arsinoe Marion",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/707483",
-        "NearestModernTown": "Polis Chrysochous",
-        "Mint":null,
-        "Coins": null,
-        "EpigraphicEvidence": 
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/707483",
+        "nearestModernTown": "Polis Chrysochous",
+        "epigraphicEvidence": 
     [{"title": "SEG 13 589",
     "link": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589"}],     
 
-"LiteraryEvidence": 
+"literaryEvidence": 
             [{"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
               
               {"title": "Diodorus. 19.79.4.",
               "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.79.4"}],
               
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
-    "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707483",
+    "bibliography":[
         {
         "title":"Goddess of Love and Mistress of the Sea",
         "author":"Barbantani, Silvia",
@@ -292,24 +295,21 @@
       }
 },
 {"type": "Feature",
-"id":"Arsinoe",
+"id":"ArsinoePalaipaphos",
       "properties": {
         "name": "Arsinoe",
-        "Description": "New foundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/707484",
-        "NearestModernTown": "Palaipaphos",
-        "Mint":null,
-        "Coins": null,
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": 
+        "description": "New foundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/707484",
+        "nearestModernTown": "Palaipaphos",
+        "literaryEvidence": 
             {"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
               
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707484",
-        "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707484",
+        "bibliography":[
         
         {"title":"Goddess of Love and Mistress of the Sea",
         "author":"Barbantani, Silvia",
@@ -359,20 +359,17 @@
 "id":"ArsinoeAngeloktistos",
       "properties": {
         "name": "Arsinoe",
-        "Description": "New foundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/707599",
-        "NearestModernTown": "Pergamos",
-        "Mint":null,
-        "Coins": null,
-        "EpigraphicEvidence": null,
+        "description": "New foundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/707599",
+        "nearestModernTown": "Pergamos",
         "literary evidence":
         {"title": "Strabo.14.6.3.",
         "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707606",
-        "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707606",
+        "bibliography":[
         
         {"title":"Goddess of Love and Mistress of the Sea",
         "author":"Barbantani, Silvia",
@@ -410,20 +407,19 @@
 "id":"ArsinoeKoressos",
       "properties": {
         "name": "Arsinoe Koressos",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/570370",
-        "NearestModernTown": "Korissia",
-        "Mint":"http://nomisma.org/id/coressia",
-        "Coins": null,
-        "EpigraphicEvidence": 
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/570370",
+        "nearestModernTown": "Korissia",
+        "mint":"http://nomisma.org/id/coressia",
+        "epigraphicEvidence": 
     [{"title": "IG XII,5 1061",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20"}],     
-        "LiteraryEvidence": null,
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570370",
-        "Bibliography":[
+        "literaryEvidence": null,
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570370",
+        "bibliography":[
             {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -461,97 +457,36 @@
         ]
       }
 },
-{"type": "Feature",
-"id":"ArsinoePatara",
-      "properties": {
-        "name": "Arsinoe Patara",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/639042",
-        "NearestModernTown": "Kelemis",
-        "Mint":"http://nomisma.org/id/patara",
-        "Coins": null,
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": 
-            [{"title": "Strabo.14.6.3.",
-              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
-        "Papyri": "www.trismegistos.org/text/1916",
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
-        "Bibliography":[
-            
-            {"title":"Lycian Turkey: an archaeological guide",
-        "author":"Bean,G. W.",
-        "type":"Book",
-        "year":"1978",
-        "pages":"82-91",
-        "link":"http://www.worldcat.org/oclc/4618195"},
-        
-            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
-        "author":"Cohen, Getzel. M",
-        "type":"Book",
-        "year":"1995",
-        "pages":"109-10, 119",
-        "link":"http://www.worldcat.org/oclc/43477481"},
-        
-         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
-        "author":"Mueller, K",
-        "type":"Book",
-        "year":"2006",
-        "pages":"201",
-        "link":"http://www.worldcat.org/oclc/62697239"},
-        
-        {"title":"Die lykischen Häfen und die Handelswege im östlichen Mittelmeer",
-        "author":"Zimmermann. M.",
-        "type":"Article",
-        "journal":"Zeitschrift für Papyrologie und Epigraphik v92",
-        "year":"1992",
-        "pages":"201-217",
-        "link":"http://www.worldcat.org/oclc/5543862400"}
-        ]
-        
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         29.314372,
-         36.260289
-        ]
-      }
-    },
 {
     "type": "Feature",
     "id":"ArsinoeEphesus",
       "properties": {
         "name": "Arsinoe Ephesus",
-        "Description": "Refoundation",
-        "Founder": "Lysimachos",
-        "Foundationstartdate": "294BCE",
-        "FoundationendDate": "281BCE",
-        "Location": "http://pleiades.stoa.org/places/599612",
-        "NearestModernTown": "Selçuk",
-        "Mint":"http://nomisma.org/id/ephesus",
-        "Coins": [
+        "description": "Refoundation",
+        "founder": "Lysimachos",
+        "foundationstartdate": "294BCE",
+        "foundationendDate": "281BCE",
+        "location": "http://pleiades.stoa.org/places/599612",
+        "nearestModernTown": "Selçuk",
+        "mint":"http://nomisma.org/id/ephesus",
+        "coins": [
             {"material":"silver",
             "monarch": "arsinoe",
-            "deity": null,
             "link":"http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec"},
             
             {"material":"silver",
             "monarch": "arsinoe",
-            "deity": null,
             "link":"http://numismatics.org/collection/1944.100.46049"}],
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": 
+        "epigraphicEvidence": null,
+        "literaryEvidence": 
             [{"title": "Strabo.10.2.22.",
               "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22"},
               {"title": "Strabo.14.1.21.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.21"},
               {"title": "Athenaeus. 424c.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:424c"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599612",
-        "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599612",
+        "bibliography":[
         
             {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
@@ -587,22 +522,22 @@
     "id":"ArsinoeTaucheira",
       "properties": {
         "name": "Arsinoe Taucheira",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy III Euergetes",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/373736",
-        "NearestModernTown": "Tocra",
-        "Mint": null,
-        "Coins": null,
-        "EpigraphicEvidence": 
+        "description": "Refoundation",
+        "founder": "Ptolemy III Euergetes",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/373736",
+        "nearestModernTown": "Tocra",
+        "mint": null,
+        "coins": null,
+        "epigraphicEvidence": 
              [{"title": "SEG 18:772",
                "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172"}],  
-        "LiteraryEvidence": 
+        "literaryEvidence": 
               [{"title": "Strabo.22.16.4.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography":[
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
+        "bibliography":[
             
         {"title":"Excavations at Tocra (1985-1992)",
         "author":"Buzaian. A.",
@@ -657,24 +592,21 @@
     "id":"ArsinoeKroodilopolis",
       "properties": {
         "name": "Arsinoe Kroodilopolis",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/736948",
-        "NearestModernTown": "Medinet el-Fayyum",
-        "Mint":null,
-        "Coins": null,
-        "EpigraphicEvidence": null,
-         "LiteraryEvidence": 
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/736948",
+        "nearestModernTown": "Medinet el-Fayyum",
+        "literaryEvidence": 
             [{"title": "Strabo. 17.1.38.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38"},
               {"title": "Diodorus. 1.89.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc1:1.89"},
               {"title": "Pliny Natural History. 5.11.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.11"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
-        "Bibliography": 
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
+        "bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -695,18 +627,14 @@
     "id":"Arsinoeontheredsea",
       "properties": {
         "name": "Arsinoe",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/39295",
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/39295",
         "NearestModernTown": null,
-        "Mint":"null",
-        "Coins": "null",
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": null,
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F39295",
-        "Bibliography": 
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F39295",
+        "bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -727,20 +655,17 @@
     "id":"ArsinoeClysma",
       "properties": {
         "name": "Arsinoe Clysma",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
-        "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/727101",
-        "NearestModernTown": "Suez",
-        "Mint": null,
-        "Coins": null,
-        "EpigraphicEvidence": null,
-         "LiteraryEvidence": 
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": null,
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/727101",
+        "nearestModernTown": "Suez",
+        "literaryEvidence": 
             [{"title": "Pliny Natural History 5.9.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
-        "Bibliography": 
+        "bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -758,23 +683,20 @@
 },
 {
     "type": "Feature",
-    "id":"Arsinoe Ammochostos",
+    "id":"Arsinoeammochostos",
       "properties": {
         "name": "Arsinoe Ammochostos",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphos",
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
         "Foundationstartdate": null,
-        "FoundationendDate": null,
-        "Location": "http://pleiades.stoa.org/places/707485",
-        "NearestModernTown": "Famagusta",
-        "Mint":"null",
-        "Coins": null,
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": 
+        "foundationendDate": null,
+        "location": "http://pleiades.stoa.org/places/707485",
+        "nearestModernTown": "Famagusta",
+        "literaryEvidence": 
             [{"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
-        "Bibliography": 
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
+        "bibliography": 
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
         "author":"Cohen, Getzel. M",
         "type":"Book",
@@ -795,23 +717,21 @@
     "id":"ArsinoeNearNagidos",
       "properties": {
         "name": "Arsinoe Near Nagidos",
-        "Description": "Newfoundation",
-        "Founder": "Aetos, son of Apollonius",
-        "Foundationstartdate": {
+        "description": "Newfoundation",
+        "founder": "Aetos, son of Apollonius",
+        "foundationstartdate": {
           "not_before": -279,
           "not_after": -253},
-        "FoundationendDate": "197BCE",
-        "Location": "http://pleiades.stoa.org/places/648571",
-        "NearestModernTown": "Maraş Harabeleri",
-        "Mint": null,
-        "Coins": null,
-        "Temple": "Arsinoe II",
-        "EpigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
-         "LiteraryEvidence": 
+        "foundationendDate": "197BCE",
+        "location": "http://pleiades.stoa.org/places/648571",
+        "nearestModernTown": "Maraş Harabeleri",
+        "temple": "Arsinoe II",
+        "epigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
+         "literaryEvidence": 
             [{"title": "Strabo.14.5.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
-        "Bibliography":[
+        "bibliography":[
             
             {"title":"Ein diplomatischer Statthalter nimmt Rücksicht auf den verletzten Stolz zweier hellenistischer Kleinpoleis (Nagidos und Arsinoe)",
         "author":"Chaniotis, A. ",
@@ -850,38 +770,60 @@
         ]
       }
 },
-{
-    "type": "Feature",
-    "id":"ArsinoePatara",
+{"type": "Feature",
+"id":"ArsinoePatara",
       "properties": {
         "name": "Arsinoe Patara",
-        "Description": "Refoundation",
-        "Founder": "Ptolemy II Philadelphus",
-        "Foundationstartdate": "279BCE",
-        "FoundationendDate": "197BCE",
-        "Location": "http://pleiades.stoa.org/places/648571",
-        "NearestModernTown": "Gelemiş",
-        "Mint":"http://nomisma.org/id/patara",
-        "Coins": null,
-        "EpigraphicEvidence": null,
-        "LiteraryEvidence": 
-            [{"title": "Strabo.14.3.6.",
-              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.6"}],
-        "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
-        "Bibliography":[
-        {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
+        "description": "Refoundation",
+        "founder": "Ptolemy II Philadelphos",
+        "foundationstartdate": "279BCE",
+        "foundationendDate": "197BCE",
+        "location": "http://pleiades.stoa.org/places/639042",
+        "nearestModernTown": "Gelemiş",
+        "mint":"http://nomisma.org/id/patara",
+        "literaryEvidence": 
+            [{"title": "Strabo.14.6.3.",
+              "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
+        "papyri": "www.trismegistos.org/text/1916",
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F639042",
+        "bibliography":[
+            
+            {"title":"Lycian Turkey: an archaeological guide",
+        "author":"Bean,G. W.",
+        "type":"Book",
+        "year":"1978",
+        "pages":"82-91",
+        "link":"http://www.worldcat.org/oclc/4618195"},
+        
+            {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
         "type":"Book",
         "year":"1995",
         "pages":"109-10, 119",
-        "link":"http://www.worldcat.org/oclc/43477481"}
+        "link":"http://www.worldcat.org/oclc/43477481"},
+        
+         {"title":"Settlements of the Ptolemies: city foundations and new settlement in the Hellenistic world",
+        "author":"Mueller, K",
+        "type":"Book",
+        "year":"2006",
+        "pages":"201",
+        "link":"http://www.worldcat.org/oclc/62697239"},
+        
+        {"title":"Die lykischen Häfen und die Handelswege im östlichen Mittelmeer",
+        "author":"Zimmermann. M.",
+        "type":"Article",
+        "journal":"Zeitschrift für Papyrologie und Epigraphik v92",
+        "year":"1992",
+        "pages":"201-217",
+        "link":"http://www.worldcat.org/oclc/5543862400"}
         ]
+        
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.313364,
-          36.260565999999997
+         29.314372,
+         36.260289
         ]
       }
 }
