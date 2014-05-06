@@ -4,7 +4,7 @@
               "properties":{"@id":"http://example.org/isDefinedBy"},
               "name":{"@id":"http://purl.org/dc/terms/title"},
               "description":{"@id":"http://purl.org/dc/terms/description"},
-              "founder":{"@id":"http://purl.org/dc/terms/creator"},
+              "founder":{"@id":"http://purl.org/dc/terms/creator","@type":"@id"},
               "foundationstartdate":{"@id":"http://purl.org/dc/terms            /created"},
                   "claros": "http://purl.org/NET/Claros/vocab#",
               "not_before": {"@id":"claros:not_before"},
