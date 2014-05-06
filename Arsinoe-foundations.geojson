@@ -48,12 +48,12 @@
         "nearestModernTown": "Rethymnon",
         "mint":["http://nomisma.org/id/arsinoe_crete",
         "http://nomisma.org/id/rhithymna"],
-        "coins": [
+        "coins": 
             {"material":"bronze",
             "monarch":null,
             "deity":"Athena",
             "link":"http://numismatics.org/collection/1944.100.40858"}
-            ],
+            ,
         "epigraphicEvidence": null,
         "literaryEvidence": null,
         "pelagios": "http://pleiades.stoa.org/places/590028",
@@ -168,10 +168,10 @@
         "location": "http://pleiades.stoa.org/places/570482",
         "nearestModernTown": "Megalochorio",
         "mint":"http://nomisma.org/id/arsinoe_argolis",
-         "coins": [
+         "coins": 
             {"material":"bronze",
             "monarch": "arsinoe",
-            "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
+            "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"]},
         "temple": "Isis",  
         "epigraphicEvidence": 
     [{"title": "IG XII,3 466/1390",
@@ -186,7 +186,7 @@
         "literaryEvidence": 
             [{"title": "Pausanias.2.34.1.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1"}],
-        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
+        "pelagios": ["http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"],
     "bibliography":[
         {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
@@ -469,8 +469,8 @@
         "location": "http://pleiades.stoa.org/places/599612",
         "nearestModernTown": "Selçuk",
         "mint":"http://nomisma.org/id/ephesus",
-        "coins": [
-            {"material":"silver",
+        "coins": 
+            [{"material":"silver",
             "monarch": "arsinoe",
             "link":"http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec"},
             
@@ -528,8 +528,6 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/373736",
         "nearestModernTown": "Tocra",
-        "mint": null,
-        "coins": null,
         "epigraphicEvidence": 
              [{"title": "SEG 18:772",
                "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172"}],  
