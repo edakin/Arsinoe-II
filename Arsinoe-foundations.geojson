@@ -169,7 +169,7 @@
         "nearestModernTown": "Megalochorio",
         "mint":"http://nomisma.org/id/arsinoe_argolis",
          "coins": [
-            {"material":"bronze",
+            {"material":"http://nomisma.org/id/ae",
             "monarch": "arsinoe",
             "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
         "temple": "Isis",  
@@ -470,11 +470,11 @@
         "nearestModernTown": "Selçuk",
         "mint":"http://nomisma.org/id/ephesus",
         "coins": [
-            {"material":"silver",
+            {"material":"http://nomisma.org/id/ar",
             "monarch": "arsinoe",
             "link":"http://www.coinarchives.com/a/lotviewer.php?LotID=620489&AucID=1129&Lot=4213&Val=a87e4c3d1fc75d29546b3535c25e44ec"},
             
-            {"material":"silver",
+            {"material":"http://nomisma.org/id/ar",
             "monarch": "arsinoe",
             "link":"http://numismatics.org/collection/1944.100.46049"}],
         "epigraphicEvidence": null,
