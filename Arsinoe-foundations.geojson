@@ -22,7 +22,7 @@
              "deity":{"@id":"http://example.org/arsinoe-abroad/deity","@type":"@id"},
              "monarch":{"@id":"http://example.org/arsinoe-abroad/monarch","@type":"@id"},
              "link":{"@id":"prov:wasDerivedFrom"},
-             "epigraphicEvidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence"},
+             "epigraphicEvidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence","@type":"@id"},
              "literaryEvidence": {"@id":"http://example.org/arsinoe-abroad/literaryevidence","@type":"@id"},
              "title":{"@id":"http://example.org/arsinoe-abroad/title","@type":"@id"},
              "papyri":{"@id":"http://example.org/papyri"} 
