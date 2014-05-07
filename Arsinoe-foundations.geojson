@@ -22,8 +22,8 @@
              "deity":{"@id":"http://example.org/arsinoe-abroad/deity","@type":"@id"},
              "monarch":{"@id":"http://example.org/arsinoe-abroad/monarch","@type":"@id"},
              "link":{"@id":"prov:wasDerivedFrom"},
-             "epigraphicEvidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence","@type":"@id"},
-             "literaryEvidence": {"@id":"http://example.org/arsinoe-abroad/literaryevidence","@type":"@id"},
+             "epigraphicevidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence","@type":"@id"},
+             "literaryevidence": {"@id":"http://example.org/arsinoe-abroad/literaryevidence","@type":"@id"},
              "title":{"@id":"http://example.org/arsinoe-abroad/title","@type":"@id"},
              "papyri":{"@id":"http://example.org/papyri"} 
               },
@@ -55,8 +55,6 @@
             "deity":"Athena",
             "link":"http://numismatics.org/collection/1944.100.40858"}
             ],
-        "epigraphicEvidence": null,
-        "literaryEvidence": null,
         "pelagios": "http://pleiades.stoa.org/places/590028",
         
     "bibliography":[
@@ -105,7 +103,7 @@
         "location": "http://pleiades.stoa.org/places/530959",
         "nearestModernTown": "Angelokastron",
         
-    "epigraphicEvidence": 
+    "epigraphicevidence": 
     [{"title": "IG IX,1² 1:31",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D42824%26bookid%3D9%26region%3D3%26subregion%3D8"}, 
     
@@ -174,7 +172,7 @@
             "monarch": "arsinoe",
             "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
         "temple": "Isis",  
-        "epigraphicEvidence": 
+        "epigraphicevidence": 
     [{"title": "IG XII,3 466/1390",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18"}, 
     
@@ -184,7 +182,7 @@
     {"title":"IG IV²,1 76",
     "link":"http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D28505%26bookid%3D7"}
     ],
-        "literaryEvidence": 
+        "literaryevidence": 
             [{"title": "Pausanias.2.34.1.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1"}],
         "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
@@ -228,11 +226,11 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707483",
         "nearestModernTown": "Polis Chrysochous",
-        "epigraphicEvidence": 
+        "epigraphicevidence": 
     [{"title": "SEG 13 589",
     "link": "http://referenceworks.brillonline.com.proxy.lib.umich.edu/entries/supplementum-epigraphicum-graecum/marion-arsinoe-nunc-parisiis-in-museo-louvre-theodorus-seleuci-f-honoratur-ante-a-131a-13-589-a13_589?s.num=0&s.f.s2_parent=s.f.book.supplementum-epigraphicum-graecum&s.q=13.589"}],     
 
-"literaryEvidence": 
+"literaryevidence": 
             [{"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
               
@@ -305,7 +303,7 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707484",
         "nearestModernTown": "Palaipaphos",
-        "literaryEvidence": 
+        "literaryevidence": 
             {"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
               
@@ -366,7 +364,7 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707599",
         "nearestModernTown": "Pergamos",
-        "literary evidence":
+        "literaryevidence":
         {"title": "Strabo.14.6.3.",
         "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
         "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707606",
@@ -415,7 +413,7 @@
         "location": "http://pleiades.stoa.org/places/570370",
         "nearestModernTown": "Korissia",
         "mint":"http://nomisma.org/id/coressia",
-        "epigraphicEvidence": 
+        "epigraphicevidence": 
     [{"title": "IG XII,5 1061",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78422%26bookid%3D21%26region%3D7%26subregion%3D20"}],     
         "literaryEvidence": null,
@@ -478,7 +476,7 @@
             {"material":"http://nomisma.org/id/ar",
             "monarch": "arsinoe",
             "link":"http://numismatics.org/collection/1944.100.46049"}],
-        "epigraphicEvidence": null,
+        "epigraphicevidence": null,
         "literaryEvidence": 
             [{"title": "Strabo.10.2.22.",
               "link": "http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10.2.22"},
@@ -531,10 +529,10 @@
         "nearestModernTown": "Tocra",
         "mint": null,
         "coins": null,
-        "epigraphicEvidence": 
+        "epigraphicevidence": 
              [{"title": "SEG 18:772",
                "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D324469%26bookid%3D172"}],  
-        "literaryEvidence": 
+        "literaryevidence": 
               [{"title": "Strabo.22.16.4.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:22.16.4"}],
         "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F373736",
@@ -599,7 +597,7 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/736948",
         "nearestModernTown": "Medinet el-Fayyum",
-        "literaryEvidence": 
+        "literaryevidence": 
             [{"title": "Strabo. 17.1.38.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.38"},
               {"title": "Diodorus. 1.89.",
@@ -662,7 +660,7 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/727101",
         "nearestModernTown": "Suez",
-        "literaryEvidence": 
+        "literaryevidence": 
             [{"title": "Pliny Natural History 5.9.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
@@ -693,7 +691,7 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707485",
         "nearestModernTown": "Famagusta",
-        "literaryEvidence": 
+        "literaryevidence": 
             [{"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
         "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F707485",
@@ -727,8 +725,8 @@
         "location": "http://pleiades.stoa.org/places/648571",
         "nearestModernTown": "Maraş Harabeleri",
         "temple": "Arsinoe II",
-        "epigraphicEvidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
-         "literaryEvidence": 
+        "epigraphicevidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
+         "literaryevidence": 
             [{"title": "Strabo.14.5.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.5.3"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F648571",
@@ -782,7 +780,7 @@
         "location": "http://pleiades.stoa.org/places/639042",
         "nearestModernTown": "Gelemiş",
         "mint":"http://nomisma.org/id/patara",
-        "literaryEvidence": 
+        "literaryevidence": 
             [{"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"}],
         "papyri": "www.trismegistos.org/text/1916",
