@@ -805,6 +805,60 @@
          36.260289
         ]
       }
+},
+{
+      "type": "Feature",
+      "id":"Alexandria",
+      "properties": {
+        "name": "Alexandria",
+        "description": "Mint",
+        "coins": [
+            {"material":"http://nomisma.org/id/ar",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1967.152.624"},
+            
+            {"material":"http://nomisma.org/id/ar",
+            "monarch": "Arsinoe II",
+            "link": "http://numismatics.org/collection/1935.117.1086"},
+            
+            {"material":"http://nomisma.org/id/au",
+            "monarch": ["Arsinoe II", "Ptolemy II","Ptolemy I", "Berenike I"],
+            "link":"http://numismatics.org/collection/1944.100.75919"}],
+
+            "location": "http://pleiades.stoa.org/places/727070",
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727070"},
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.909773000000001,
+          31.201435
+       ]
+      }
+},
+
+{
+      "type": "Feature",
+      "id":"Tyre",
+      "properties": {
+        "name": "Tyre",
+        "description": "Mint",
+        "coins": 
+            {"material":"http://nomisma.org/id/au",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1967.152.419"},
+
+            "location": "http://pleiades.stoa.org/places/678437"},
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209358,
+          33.268071
+       ]
+      }
 }
 ]
 }
