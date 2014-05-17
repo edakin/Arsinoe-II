@@ -664,14 +664,21 @@
             [{"title": "Pliny Natural History 5.9.",
               "link": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.9"}],
         "Pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F727101",
-        "bibliography": 
+        "bibliography": [
         {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
         "author":"Cohen, Getzel. M",
         "type":"Book",
         "year":"2006",
-        "pages":"x",
-        "link":"http://www.worldcat.org/oclc/5104862236"}
-      },
+        "pages":"308-9",
+        "link":"http://www.worldcat.org/oclc/5104862236"},
+        
+ {"title":"Agatharchides of Cnidus, On the Erythraean Sea",
+        "author":"Burstein, S.M.",
+        "type":"Book",
+        "year":"1989",
+        "pages":"134",
+        "link":"http://www.worldcat.org/oclc/70308820"}
+      ]},
       "geometry": {
         "type": "Point",
         "coordinates": [
