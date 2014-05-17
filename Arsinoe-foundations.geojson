@@ -812,7 +812,7 @@
       "id":"Alexandria",
       "properties": {
         "name": "Alexandria",
-        "description": "Mint",
+        "Mint": "http://nomisma.org/id/alexandreia_egypt",
         "coins": [
             {"material":"http://nomisma.org/id/ar",
             "monarch": "Arsinoe II",
@@ -845,6 +845,7 @@
       "properties": {
         "name": "Tyre",
         "description": "Mint",
+        "mint": "http://nomisma.org/id/tyre",
         "coins": 
             {"material":"http://nomisma.org/id/au",
             "monarch": "Arsinoe II",
