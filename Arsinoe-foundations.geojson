@@ -621,34 +621,7 @@
         ]
       }
 },
-{
-    "type": "Feature",
-    "id":"Arsinoeontheredsea",
-      "properties": {
-        "name": "Arsinoe",
-        "description": "Refoundation",
-        "founder": "Ptolemy II Philadelphos",
-        "foundationstartdate": null,
-        "foundationendDate": null,
-        "location": "http://pleiades.stoa.org/places/39295",
-        "NearestModernTown": null,
-        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F39295",
-        "bibliography": 
-        {"title":"The Hellenistic Settlements in Syria, the Red Sea Basin, and North Africa",
-        "author":"Cohen, Getzel. M",
-        "type":"Book",
-        "year":"2006",
-        "pages":"x",
-        "link":"http://www.worldcat.org/oclc/5104862236"}
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.081506,
-          12.775672
-        ]
-      }
-},
+
 {
     "type": "Feature",
     "id":"ArsinoeClysma",
