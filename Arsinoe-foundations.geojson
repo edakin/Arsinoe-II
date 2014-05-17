@@ -832,8 +832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.909773000000001,
-          31.201435
+          24.4729,
+          35.3708
        ]
       }
 },
@@ -859,6 +859,206 @@
           33.268071
        ]
       }
+},
+{
+      "type": "Feature",
+      "id":"Delos",
+      "properties": {
+        "name": "Delos",
+        "description": "cult",
+        "epigraphicevidence": {"title": "IG XI,4 1303",
+        "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D63788%26bookid%3D17%26region%3D7%26subregion%3D15"}, 
+            "location": "http://pleiades.stoa.org/places/599587",
+            "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599587",
+            
+             "bibliography":[
+            
+        {"title":"Sur un décret des Korsésiens au musée de Smyrne",
+        "author":"Robert, L.",
+        "type":"Journal",
+        "year":"1960",
+        "pages":"132-76"},
+      
+        
+        {"title":"The Ptolemaic League of Islanders",
+        "author":"Meadows, A.",
+        "type":"Book Section",
+        "year":"2013",
+        "pages":"30",
+        "link":"http://www.worldcat.org/oclc/809845120"}]
+      },
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209358,
+          33.268071
+       ]
+      }
+},
+
+{
+      "type": "Feature",
+      "id":"Paros",
+      "properties": {
+        "name": "Paros",
+        "description": "cult",
+        "epigraphicevidence": [
+            {"title": "IG XII,5 264)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78567%26bookid%3D25%26region%3D7%26subregion%3D20"}, 
+            {"title": "IG XII,5 267",
+            "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D77487%26bookid%3D21%26region%3D7%26subregion%3D20"}],
+            
+            "location": "http://pleiades.stoa.org/places/599867",
+            "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599867",
+            
+             "bibliography":[
+        {"title":"Sur un décret des Korsésiens au musée de Smyrne",
+        "author":"Robert, L.",
+        "type":"Journal",
+        "year":"1960",
+        "pages":"132-76"},
+      
+        
+        {"title":"The Ptolemaic League of Islanders",
+        "author":"Meadows, A.",
+        "type":"Book Section",
+        "year":"2013",
+        "pages":"30",
+        "link":"http://www.worldcat.org/oclc/809845120"}]
+      },
+        
+        "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.150728000000001,
+          37.085790000000003
+       ]
+      }
+},
+  {
+      "type": "Feature",
+      "id":"Ios",
+      "properties": {
+        "name": "Ios",
+        "description": "cult",
+        "epigraphicevidence": 
+            {"title": "IG XII,5 16)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D77231%26bookid%3D21%26region%3D7%26subregion%3D20"}, 
+            
+            "location": "http://pleiades.stoa.org/places/599672",
+            "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599672",
+             "bibliography":[
+        {"title":"Sur un décret des Korsésiens au musée de Smyrne",
+        "author":"Robert, L.",
+        "type":"Journal",
+        "year":"1960",
+        "pages":"132-76"},
+      
+        
+        {"title":"The Ptolemaic League of Islanders",
+        "author":"Meadows, A.",
+        "type":"Book Section",
+        "year":"2013",
+        "pages":"30",
+        "link":"http://www.worldcat.org/oclc/809845120"}],
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.282229000000001,
+          36.723334999999999
+       ]
+      }
+      }
+},
+
+{
+      "type": "Feature",
+      "id":"Amorgos",
+      "properties": {
+        "name": "Amorgos",
+        "description": "cult",
+        "epigraphicevidence": 
+            [{"title": "IG XII,7 99)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78743%26bookid%3D22%26region%3D7%26subregion%3D23"}, 
+             {"title": "IG XII,7 263)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78911%26bookid%3D22%26region%3D7%26subregion%3D23"},
+             {"title": "IG XII,7 264)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78912%26bookid%3D22%26region%3D7%26subregion%3D23"}],
+             
+            "location": "http://pleiades.stoa.org/places/599800",
+            "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599800",
+             "bibliography":[
+        {"title":"Sur un décret des Korsésiens au musée de Smyrne",
+        "author":"Robert, L.",
+        "type":"Journal",
+        "year":"1960",
+        "pages":"132-76"},
+      
+        
+        {"title":"The Ptolemaic League of Islanders",
+        "author":"Meadows, A.",
+        "type":"Book Section",
+        "year":"2013",
+        "pages":"30",
+        "link":"http://www.worldcat.org/oclc/809845120"}],
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.867017000000001,
+          36.827112
+       ]
+      }
+}
+},
+
+{
+      "type": "Feature",
+      "id":"Thera",
+      "properties": {
+        "name": "Thera",
+        "description": "cult",
+        "epigraphicevidence": 
+            [{"title": "IG XII,3 462)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75985%26bookid%3D20%26region%3D7%26subregion%3D18"}, 
+             {"title": "IG XII,7 263)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D78911%26bookid%3D22%26region%3D7%26subregion%3D23"},
+             {"title": "IG XII,3 1386)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D76921%26bookid%3D20%26region%3D7%26subregion%3D18"},
+             {"title": "IG XII, Suppl. 156)",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D77183%26bookid%3D25%26region%3D7%26subregion%3D18%26area%3DThera"}],
+             
+            "location": "http://pleiades.stoa.org/places/599971",
+            "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599971",
+             "bibliography":[
+        {"title":"Sur un décret des Korsésiens au musée de Smyrne",
+        "author":"Robert, L.",
+        "type":"Journal",
+        "year":"1960",
+        "pages":"132-76"},
+      
+        
+        {"title":"The Ptolemaic League of Islanders",
+        "author":"Meadows, A.",
+        "type":"Book Section",
+        "year":"2013",
+        "pages":"30",
+        "link":"http://www.worldcat.org/oclc/809845120"}],
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.477816000000001,
+          36.363374
+       ]
+      }
+    }
 }
 ]
 }
