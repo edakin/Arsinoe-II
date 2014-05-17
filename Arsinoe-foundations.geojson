@@ -16,6 +16,7 @@
               "geometry":{"@id":"http://geovocab.org/geometry#geometry"},
               "Point":{"@id":"http://geovocab.org/geometry#Point"},
               "coordinates":{ "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#value", "@container":"@list" },
+              "cult":{"@id":"http://example.org/arsinoe-abroad/cult","@type":"@id"},
              "mint":{"@id":"http://nomisma.org/id/mint","@type":"@id"},
              "coins":{"@id":"http://nomisma.org/id/coin"},
              "material":{"@id":"http://nomisma.org/id/material","@type":"@id"},
