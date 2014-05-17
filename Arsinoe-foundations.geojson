@@ -950,8 +950,8 @@
         "description": "cult",
         "cult": "Arsinoe II",
         "epigraphicevidence": 
-            {"title": "IG XII,5 16)",
-             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D77231%26bookid%3D21%26region%3D7%26subregion%3D20"}, 
+            [{"title": "IG XII,5 16}",
+             "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D77231%26bookid%3D21%26region%3D7%26subregion%3D20"}], 
             
             "location": "http://pleiades.stoa.org/places/599672",
             "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F599672",
@@ -968,7 +968,8 @@
         "type":"Book Section",
         "year":"2013",
         "pages":"30",
-        "link":"http://www.worldcat.org/oclc/809845120"}],
+        "link":"http://www.worldcat.org/oclc/809845120"}]
+        },
         
         
       "geometry": {
@@ -977,7 +978,6 @@
           25.282229000000001,
           36.723334999999999
        ]
-      }
       }
 },
 
@@ -1011,7 +1011,8 @@
         "type":"Book Section",
         "year":"2013",
         "pages":"30",
-        "link":"http://www.worldcat.org/oclc/809845120"}],
+        "link":"http://www.worldcat.org/oclc/809845120"}]
+        },
         
         
       "geometry": {
@@ -1021,7 +1022,6 @@
           36.827112
        ]
       }
-}
 },
 
 {
@@ -1056,7 +1056,8 @@
         "type":"Book Section",
         "year":"2013",
         "pages":"30",
-        "link":"http://www.worldcat.org/oclc/809845120"}],
+        "link":"http://www.worldcat.org/oclc/809845120"}]
+        },
         
         
       "geometry": {
@@ -1067,6 +1068,5 @@
        ]
       }
     }
-}
 ]
 }
