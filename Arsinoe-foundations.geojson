@@ -26,7 +26,7 @@
              "epigraphicevidence":{"@id":"http://example.org/arsinoe-abroad/epigraphicevidence","@type":"@id"},
              "literaryevidence": {"@id":"http://example.org/arsinoe-abroad/literaryevidence","@type":"@id"},
              "title":{"@id":"http://example.org/arsinoe-abroad/title","@type":"@id"},
-             "papyri":{"@id":"http://example.org/papyri"} 
+             "papyri":{""@id":"http://example.org/arsinoe-abroad/papyri","@type":"@id""} 
               },
               
               
