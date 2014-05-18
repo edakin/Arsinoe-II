@@ -7,7 +7,7 @@ Settlements with epigraphic evidence [HERE] (http://rdf.greggkellogg.net/sparql?
 
 Settlements with papyrus evidence [HERE] ( http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3Fpapyri%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Fpapyri%3E+%3Fpapyri.%0D%0A%7D&url=)
 
-Settlements substantiated by literary evidence HERE
+Settlements substantiated by literary evidence [HERE] (http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3Fliteraryevidence+%3Ftitle%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Fliteraryevidence%3E+%3Ftmp2.%0D%0A%3Ftmp2+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Ftitle%3E+%3Ftitle+.%0D%0A%7D&url=)
 
 All numismatic information [HERE] ( http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3Fmaterial+%3Fmonarch%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fnomisma.org%2Fid%2Fcoin%3E+%3Ftmp2+.%0D%0A%3Ftmp2+%3Chttp%3A%2F%2Fnomisma.org%2Fid%2Fmaterial%3E+%3Fmaterial+.%0D%0A%3Ftmp2+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Fmonarch%3E+%3Fmonarch.%7D&url=)
 
