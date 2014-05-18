@@ -1,7 +1,7 @@
 Arsinoe-II
 ==========
 
-Settlements and founders [HERE] (http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3Ffounder%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fcreator%3E+%3Ffounder+.%0D%0A%7D&url=)
+Settlements named after Arsinoe and founders [HERE] (http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3Ffounder%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fcreator%3E+%3Ffounder+.%0D%0A%7D&url=)
 
 Settlements with epigraphic evidence [HERE] (http://rdf.greggkellogg.net/sparql?format=html&query=select+%3Fname+%3FepigraphicEvidence+%3Ftitle%0D%0Afrom+%3Chttps%3A%2F%2Fraw.githubusercontent.com%2Fedakin%2FArsinoe-II%2Fmaster%2FArsinoe-foundations.geojson%3E%0D%0Awhere+%7B+%3Fname+%3Chttp%3A%2F%2Fexample.org%2FisDefinedBy%3E+%3Ftmp+.%0D%0A%3Ftmp+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Fepigraphicevidence%3E+%3Ftmp2+.%0D%0A%3Ftmp2+%3Chttp%3A%2F%2Fexample.org%2Farsinoe-abroad%2Ftitle%3E+%3Ftitle+.%0D%0A%7D%0D%0A&url=)
 
