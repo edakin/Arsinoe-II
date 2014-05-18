@@ -1,7 +1,6 @@
 Arsinoe-II
 ==========
 
-
 Settlements and founders HERE
 
 Settlements with epigraphic evidence HERE
