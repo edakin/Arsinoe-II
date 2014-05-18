@@ -172,7 +172,7 @@
             {"material":"http://nomisma.org/id/ae",
             "monarch": "arsinoe",
             "link":["http://numismatics.org/collection/1944.100.39707","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&searchText=arsinoe","http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1284019&partId=1&people=64049&peoA=64049-4-7&page=1"],
-        "temple": "Isis",  
+        "cult": "Isis",  
         "epigraphicevidence": 
     [{"title": "IG XII,3 466/1390",
     "link": "http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D75990%26bookid%3D20%26region%3D7%26subregion%3D18"}, 
@@ -705,7 +705,7 @@
         "foundationendDate": "197BCE",
         "location": "http://pleiades.stoa.org/places/648571",
         "nearestModernTown": "Maraş Harabeleri",
-        "temple": "Arsinoe II",
+        "cult": "Arsinoe II",
         "epigraphicevidence": "http://www.jstor.org.ezproxy.gc.cuny.edu/stable/pdfplus/10.2307/1088299.pdf",
          "literaryevidence": 
             [{"title": "Strabo.14.5.3.",
