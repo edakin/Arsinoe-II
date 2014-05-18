@@ -186,7 +186,7 @@
         "literaryevidence": 
             [{"title": "Pausanias.2.34.1.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.1"}],
-        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482"}],
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F570482",
     "bibliography":[
         {"title":"The Hellenistic settlements in Europe, the islands, and Asia Minor",
         "author":"Cohen, Getzel. M",
