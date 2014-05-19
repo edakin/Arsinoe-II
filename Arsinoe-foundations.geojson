@@ -900,6 +900,30 @@
 
 {
       "type": "Feature",
+      "id":"Berytus",
+      "properties": {
+        "name": "Berytus",
+        "description": "Mint",
+        "mint": "http://nomisma.org/id/berytus",
+        "coins": 
+            {"material":"http://nomisma.org/id/au",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1944.100.76257"},
+
+            "location": "http://pleiades.stoa.org/places/687931",
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F678060"},
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.752119,
+          32.053722 
+       ]
+      }
+},
+
+{
+      "type": "Feature",
       "id":"Delos",
       "properties": {
         "name": "Delos",
