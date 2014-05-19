@@ -304,6 +304,11 @@
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707484",
         "nearestModernTown": "Palaipaphos",
+        "mint": "http://nomisma.org/id/paphos",
+        "coins": 
+            {"material":"http://nomisma.org/id/au",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1944.100.76008"},
         "literaryevidence": 
             {"title": "Strabo.14.6.3.",
               "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
