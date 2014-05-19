@@ -870,6 +870,31 @@
 },
 {
       "type": "Feature",
+      "id":"Joppa",
+      "properties": {
+        "name": "Joppa",
+        "description": "Mint",
+        "mint": "http://nomisma.org/id/joppa",
+        "coins": 
+            {"material":"http://nomisma.org/id/au",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1944.100.76346"},
+
+            "location": "http://pleiades.stoa.org/places/687931",
+        "pelagios": "http://pelagios.dme.ait.ac.at/api/places/http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F687931"},
+        
+        
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.74774,
+          32.052436 
+       ]
+      }
+},
+
+{
+      "type": "Feature",
       "id":"Delos",
       "properties": {
         "name": "Delos",
