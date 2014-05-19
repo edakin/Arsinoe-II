@@ -361,9 +361,9 @@
       }
 },
 {"type": "Feature",
-"id":"ArsinoeCitium",
+"id":"ArsinoeCition",
       "properties": {
-        "name": "Arsinoe Citum",
+        "name": "Arsinoe Cition",
         "description": "New foundation",
         "founder": "Ptolemy II Philadelphos",
         "foundationstartdate": null,
