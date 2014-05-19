@@ -297,7 +297,7 @@
 {"type": "Feature",
 "id":"ArsinoePalaipaphos",
       "properties": {
-        "name": "Arsinoe",
+        "name": "Arsinoe Palaipaphos",
         "description": "New foundation",
         "founder": "Ptolemy II Philadelphos",
         "foundationstartdate": null,
@@ -363,13 +363,18 @@
 {"type": "Feature",
 "id":"ArsinoeAngeloktistos",
       "properties": {
-        "name": "Arsinoe",
+        "name": "Arsinoe Citum",
         "description": "New foundation",
         "founder": "Ptolemy II Philadelphos",
         "foundationstartdate": null,
         "foundationendDate": null,
         "location": "http://pleiades.stoa.org/places/707599",
         "nearestModernTown": "Pergamos",
+        "mint": "http://nomisma.org/id/citium",
+        "coins": 
+            {"material":"http://nomisma.org/id/au",
+            "monarch": "Arsinoe II",
+            "link":"http://numismatics.org/collection/1944.100.49263"},
         "literaryevidence":
         {"title": "Strabo.14.6.3.",
         "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.6.3"},
